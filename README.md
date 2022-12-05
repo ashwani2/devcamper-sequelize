@@ -4,10 +4,13 @@ In config/config.env file please add
 NODE_ENV=development
 
 FILE_UPLOAD_PATH=./public/uploads
+
 MAX_FILE_UPLOADS=1000000   
 
 JWT_SECRET=your secret
+
 JWT_EXPIRE=Time you want the token to expire on
+
 JWT_COOKIE_EXPIRE=Time you want the cookie to expire on
 
 
