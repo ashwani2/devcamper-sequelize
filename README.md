@@ -30,4 +30,4 @@ FROM_NAME=your name
 ** For Dummy data use mailtrap.io or ethreal mail**
 
 
-After that run "npm i" command then  run "num run dev"
+After that run "npm i" command then  run "npm run dev"
